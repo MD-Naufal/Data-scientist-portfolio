@@ -21,7 +21,9 @@
     },
     {
         "name": "Matplotlib",
-        "icon": "assets/images/Matplotlib_Logo.jpeg"
+        "icon": "assets/images/Matplotlib_Logo.jpeg",
+        "height": 48,
+        "width": 48
     },
     {
         "name": "Pandas",
